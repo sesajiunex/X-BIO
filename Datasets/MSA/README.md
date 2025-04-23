@@ -1,4 +1,4 @@
-References to distances datasets
+References to MSA datasets
 
 [M12x252] Kuiken C., Thurmond J., Dimitrijevic M., Yoon H., "The LANL hemorrhagic fever virus database, a new platform for analyzing biothreat viruses", Nucleic Acids Research, 40, D587-592, 2012.  DOI: 10.1093/nar/gkr898 
 
